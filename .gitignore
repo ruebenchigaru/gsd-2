@@ -50,3 +50,6 @@ AGENTS.md
 .bg-shell/
 TODOS.md
 .planning/
+
+# ── Other files to ignore ──
+my_notes/
