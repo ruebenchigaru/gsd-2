@@ -58,3 +58,7 @@ docs/coherence-audit/
 # ── Stale lock files (npm is canonical) ──
 pnpm-lock.yaml
 bun.lock
+
+# ── Personal docs ──
+local_docs/
+.openlogs/
